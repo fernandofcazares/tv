@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/fernandofcazares/canales/blob/deb2301e6084a502aeab4c3c52ef70031cc190d0/butaca%20tv.png" group-title="CINEMA", ButacaTV
+#EXTINF:-1 tvg-logo="https://github.com/fernandofcazares/canales/blob/deb2301e6084a502aeab4c3c52ef70031cc190d0/butaca%20tv.png" group-title="CINEMA", butaca tv
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/featuredImage.jpg" group-title="CINEMA", Cine
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4326&deviceLon=-99.1332&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=dd447de1-ba5a-11eb-8558-0242ac110002&sid=dd447de1-ba5a-11eb-8558-0242ac110002&userId=
