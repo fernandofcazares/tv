@@ -122,7 +122,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNwZL2mg/tlnovelas.png" group-title="ELLAS ELLOS", tlnovelas
 http://ipeteve.com/php/SR_REGIO_35857/regio3.php?c=a02h
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzBQgT2d/corazon.png" group-title="ELLAS ELLOS", corazon
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=azcorazon&f=.m3u8
+https://tv.teleclub.xyz/live/club3/AZCORAZON.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kggKGQM4/Pasiones.png" group-title="ELLAS ELLOS", Pasiones
 https://tv.teleclub.xyz/live/club3/PASIONES.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXjTqtr6/Garage-Tv.png" group-title="ELLAS ELLOS", Garage Tv
