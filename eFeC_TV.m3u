@@ -162,7 +162,7 @@ http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=11&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLpW4gPs/mundo.png" group-title="TV mas", mundo
 https://tv.teleclub.xyz/live/club3/AZMUNDO.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjZxMFG6/LAOCTAVA.png" group-title="TV mas", LAOCTAVA
-https://stream-03.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2r0oAx4C64hhguB86vyuttg)/dm/3/x80mow9/d/live-2.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1&qos_geostore=1
+https://www.dailymotion.com/cdn/live/video/x80mow9.m3u8?sec=DmTxzemBViHPgWCPzmvxV1Ughujp1XerjM1xjodf1PkrYAJbveecLF42_qlGWLH1GUlQ3WPbx0hVnY-D2ZK6vw
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Nj8fHMDz/MVStv.png" group-title="TV mas", MVStv
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4x1HTwDy/TVC.png" group-title="TV mas", TVC
@@ -170,7 +170,7 @@ http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2156&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzjZw526/once.png" group-title="TV mas", once
 http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1942&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCxg9Dxy/CANAL22.png" group-title="TV mas", CANAL22
-https://5fe2654d6127d.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDIxIDI6NTE6MzQgUE0maGFzaF92YWx1ZT03Y0h1TUdROGNtMHFWY243NzZuZ1FRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIxIDExOjM1OjM1IFBNJmhhc2hfdmFsdWU9YVdCR0tmanVldGFlMVR2WHRDNi9rZz09JnZhbGlkbWludXRlcz01JmlkPQ==
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb1JQQtN/tv-unam.png" group-title="TV mas", tv unam
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMngcrG5/MEXIQUENSE.png" group-title="TV mas", MEXIQUENSE
