@@ -35,7 +35,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007
 http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1787&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htMVsJYw/D-pelicula.png" group-title="CINEMA", D película
 https://tv.teleclub.xyz/live/club3/DEPELICULA.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5WcFZ0J/D-pelicula-plus.png" group-title="CINEMA", D pelicula plus
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5WcFZ0J/D-pelicula-plus.png" group-title="CINEMA", D pelicula 2
 https://tv.teleclub.xyz/live/club/DEPELICULA.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5WcFZ0J/D-pelicula-plus.png" group-title="CINEMA", D pelicula plus
 https://tv.teleclub.xyz/live/club2/DEPELICULA.m3u8
