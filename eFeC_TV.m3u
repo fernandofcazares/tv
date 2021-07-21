@@ -157,7 +157,7 @@ https://tv.teleclub.xyz/live/club2/HISTORY.m3u8
 https://tv.teleclub.xyz/live/club2/H2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ1fTX7C/HISTORIA.png" group-title="DOCUMENTAL", HISTORIA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.101.2-0bded0c460e852bce56d60cf9db805aa3d793efa&app_name=web&clientDeviceType=0&clientID=7ad03d1d-7432-42aa-a2ce-aafa33d29a72&clientModelNumber=1.0.0&country=MX&deviceDNT=false&deviceId=7ad03d1d-7432-42aa-a2ce-aafa33d29a72&deviceLat=19.4354&deviceLon=-99.1427&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472&marketingRegion=VE&serverSideAds=true&sessionID=47da9513-ea5c-11eb-9ce2-0242ac110003&sid=47da9513-ea5c-11eb-9ce2-0242ac110003&userId=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3N2ZzWkx/CIENCIA.png" group-title="CULTURA", CIENCIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3N2ZzWkx/CIENCIA.png" group-title="DOCUMENTAL", CIENCIA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.101.2-0bded0c460e852bce56d60cf9db805aa3d793efa&app_name=web&clientDeviceType=0&clientID=7ad03d1d-7432-42aa-a2ce-aafa33d29a72&clientModelNumber=1.0.0&country=MX&deviceDNT=false&deviceId=7ad03d1d-7432-42aa-a2ce-aafa33d29a72&deviceLat=19.4354&deviceLon=-99.1427&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472&marketingRegion=VE&serverSideAds=true&sessionID=8226e23b-ea5d-11eb-887c-0242ac110003&sid=8226e23b-ea5d-11eb-887c-0242ac110003&userId=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrwrHqdW/uno.png" group-title="TV", uno
 http://ipeteve.com/php/SR_REGIO_190721/tp.php?c=7&p=3&k=srregio&f=.m3u8
