@@ -399,23 +399,3 @@ http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=220&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=221&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vT4p8sqz/TELERITMO.png" group-title="Musica", TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYzY1Htn/Conciertos.png" group-title="Musica", Conciertos
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cdlivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.101.2-0bded0c460e852bce56d60cf9db805aa3d793efa&app_name=web&clientDeviceType=0&clientID=7ad03d1d-7432-42aa-a2ce-aafa33d29a72&clientModelNumber=1.0.0&country=MX&deviceDNT=false&deviceId=7ad03d1d-7432-42aa-a2ce-aafa33d29a72&deviceLat=19.4339&deviceLon=-99.1965&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=92.0.4515&marketingRegion=VE&serverSideAds=true&sessionID=2f659c82-edb6-11eb-8c98-0242ac110003&sid=2f659c82-edb6-11eb-8c98-0242ac110003&userId=&profilesFromStream=true
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/637XSZZH/vevo-70s.png" group-title="Musica", vevo 70s
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=5.101.2-0bded0c460e852bce56d60cf9db805aa3d793efa&app_name=web&clientDeviceType=0&clientID=7ad03d1d-7432-42aa-a2ce-aafa33d29a72&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=7ad03d1d-7432-42aa-a2ce-aafa33d29a72&deviceLat=40.7123&deviceLon=-74.0068&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=92.0.4515&marketingRegion=US&serverSideAds=true&sessionID=e3c8fa31-ee3c-11eb-afdd-0242ac110003&sid=e3c8fa31-ee3c-11eb-afdd-0242ac110003&userId=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pf9mBngK/vevo-80s.png" group-title="Musica", vevo 80s
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=5.101.2-0bded0c460e852bce56d60cf9db805aa3d793efa&app_name=web&clientDeviceType=0&clientID=7ad03d1d-7432-42aa-a2ce-aafa33d29a72&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=7ad03d1d-7432-42aa-a2ce-aafa33d29a72&deviceLat=40.7123&deviceLon=-74.0068&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=92.0.4515&marketingRegion=US&serverSideAds=true&sessionID=20bb150c-ee3d-11eb-b607-0242ac110003&sid=20bb150c-ee3d-11eb-b607-0242ac110003&userId=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB28drf1/vev0-90s.png" group-title="Musica", vevo 90s
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=5.101.2-0bded0c460e852bce56d60cf9db805aa3d793efa&app_name=web&clientDeviceType=0&clientID=7ad03d1d-7432-42aa-a2ce-aafa33d29a72&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=7ad03d1d-7432-42aa-a2ce-aafa33d29a72&deviceLat=40.7123&deviceLon=-74.0068&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=92.0.4515&marketingRegion=US&serverSideAds=true&sessionID=436c4331-ee3d-11eb-b6da-0242ac110003&sid=436c4331-ee3d-11eb-b6da-0242ac110003&userId=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMGc42yw/vevo-2K.png" group-title="Musica", vevo 2K
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=5.101.2-0bded0c460e852bce56d60cf9db805aa3d793efa&app_name=web&clientDeviceType=0&clientID=7ad03d1d-7432-42aa-a2ce-aafa33d29a72&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=7ad03d1d-7432-42aa-a2ce-aafa33d29a72&deviceLat=40.7123&deviceLon=-74.0068&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=92.0.4515&marketingRegion=US&serverSideAds=true&sessionID=5b547735-ee3d-11eb-a44a-0242ac110003&sid=5b547735-ee3d-11eb-a44a-0242ac110003&userId=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMhbXNT7/MTV.png" group-title="Musica", MTV.
-https://tv.teleclub.xyz/live/club2/MTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85JsdB81/VH1.png" group-title="Musica", VH1
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=334&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqtP2RcF/TELEHIT-MUSICA-PLUS.png" group-title="Musica", TELEHIT MUSICA PLUS
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=220&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZTY1hY5/BANDAMAX.png" group-title="Musica", BANDAMAX
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=221&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vT4p8sqz/TELERITMO.png" group-title="Musica", TELERITMO
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
