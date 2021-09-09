@@ -162,7 +162,7 @@ https://tv.teleclub.xyz/live/2/HBOSIGNATURE.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rschhx8g/STAR-CINEMA.png" group-title="STAR Premium", STAR CINEMA
 https://tv.teleclub.xyz/live/1/FOXCINEMA.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L69CLtQ8/STAR-HITS.png" group-title="STAR Premium", STAR HITS
-https://tv.teleclub.xyz/live/1/FOXMOVIES.m3u8
+https://tv.teleclub.xyz/live/2/FOXMOVIES.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CKB6dwPC/STAR-ACTION.png" group-title="STAR Premium", STAR ACTION
 https://tv.teleclub.xyz/live/2/FOXACTION.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3Jg47Qf/STAR-COMEDY.png" group-title="STAR Premium", STAR COMEDY
