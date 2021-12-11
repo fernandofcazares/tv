@@ -88,13 +88,13 @@ http://tv.teleclub.xyz/live/HLS_01/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nvqwt3H/STAR-LIFE.png" group-title="TV Series", STAR LIFE
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=77&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htTBhFCd/STAR-SERIES.png" group-title="TV Series", STAR SERIES
-http://tv.teleclub.xyz/live/hls_01/FOXSERIES/index.m3u8
+http://tv.teleclub.xyz/live/HLS_01/STAR_SERIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2shFd51/TNT-SERIES.png" group-title="TV Series", TNT SERIES
-http://tv.teleclub.xyz/live/hls_01/TNTSERIES/index.m3u8
+http://tv.teleclub.xyz/live/HLS_01/TNT_SERIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTKH5LPf/UNIVERSAL-TV.png" group-title="TV Series", UNIVERSAL TV
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=207&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgbx8J23/Discovery-ID.png" group-title="TV Series", Discovery ID
-http://tv.teleclub.xyz/live/hls_01/ID/index.m3u8
+http://tv.teleclub.xyz/live/HLS_01/DISCOVERY_ID/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LPgfb0x/LOS-ARCHIVOS-DEL-FBI.png" group-title="TV Series", LOS ARCHIVOS DEL FBI
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4326&deviceLon=-99.1332&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=6a25c8f0-babd-11eb-a771-0242ac110002&sid=6a25c8f0-babd-11eb-a771-0242ac110002&userId=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLLzN1Cn/CSI.png" group-title="TV Series", CSI
