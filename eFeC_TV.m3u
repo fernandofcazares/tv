@@ -60,7 +60,7 @@ http://regioplay.xyz/php/SR_REGIO_511022_/regio22d.php?c=unimas&k=SrRegio&f=.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRfhrSbH/TELEMUNDO.png" group-title="TV plus", TELEMUNDO
 http://regioplay.xyz/php/SR_REGIO_511022_/tp.php?c=85&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pT8psHt9/WB-TV.png" group-title="TV Network", WB TV
-http://regioplay.xyz/php/SR_REGIO_511022_/tp.php?c=205&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=52&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVH87XLJ/STAR-CHANNEL.png" group-title="TV Network", STAR CHANNEL
 http://regioplay.xyz/php/SR_REGIO_511022_/tp.php?c=201&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4SZTk5g/SONY-CHANNEL.png" group-title="TV Network", SONY CHANNEL
